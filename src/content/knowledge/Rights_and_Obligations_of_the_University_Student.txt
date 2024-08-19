@@ -1,0 +1,116 @@
+<aside>
+💡 ¿SABÍAS QUE EN LA UNIVERSIDAD, LOS/LAS ESTUDIANTES TIENEN
+SUS REPRESENTANTES EN CADA UNO DE LOS ESPACIOS DONDE
+SE TOMAN DECISIONES?
+
+</aside>
+
+Los estudiantes en diversos niveles somos reconocidos en el cogobierno de la universidad
+desde delegados/as de curso o miembros del centro de estudiantes hasta consejeros
+superiores de la universidad. Nuestro rol como estudiantes es de suma importancia para
+transmitir una mirada diferente en las decisiones que se toman en cada uno de estos niveles:
+la mirada de los estudiantes.
+
+```jsx
+{
+  "Universidad": [
+    "Miembro de la Federación Universitaria de San Juan",
+    "Consejero Superior (Titular y Suplente)"
+  ],
+  "Facultad": [
+    "Miembro del Centro de Estudiantes (Comisión Directiva o Colaborador)",
+    "Consejero directivo (Titular y Suplente)"
+  ],
+  "Carrera": [
+    "Delegado de curso (Titular y Suplente)",
+    "Miembro de asociaciones (Por ej.: ASEGEO)",
+    "Consejero Departamental (Titular y Suplente)"
+  ]
+}
+```
+
+### Delegado de curso
+
+La función principal del delegado/a de curso es poder transmitir las problemáticas
+de tus compañeros/as al centro de estudiantes y/o al departamento de tu carrera.
+Ejemplos sobre las problemáticas que se pueden presentar son: problemas con los
+docentes, problemáticas del plan de estudios, problemas de horarios, dudas en
+general.
+
+### Miembro de asociación
+
+En nuestra facultad actualmente hay dos asociaciones
+estudiantiles: ASEGEO (Asociación de estudiantes de Geología),nacida en 2011
+y dirigida por estudiantes de todos los niveles de la Licenciatura en
+Ciencias Geológicas comprendida en la Facultad de Ciencias Exactas,
+Físicas y Naturales de la Universidad Nacional de San Juan. Dicha asociación
+(apartidaria y sin fines de lucro) tiene como objetivo principal representar y organizar
+a los alumnos/as de la carrera. funcionando como un enlace entre la Universidad y
+los estudiantes.
+
+Esto contempla la solución de las problemáticas que aparecen durante el
+cursado, como de las necesidades académicas y económicas para llevar a cabo las
+diversas actividades propuestas por las instituciones educativas, dentro y fuera de la
+provincia. Algunas de las actividades que realiza son charlas de docentes y
+profesionales, talleres académicos, jornadas de geociencias, grupos de
+montañismo, ferias académicas, talleres de reciclaje, olimpiadas académicas,
+charlas orientadoras para alumnos/as de secundaria, entre
+otras. ASEASTRO (Asociación de estudiantes de astronomia): La Asociación
+Sanjuanina de Estudiantes de Astronomía es un grupo de estudiantes que se
+organizan para promover sus intereses y defender sus derechos. La asociación
+estudiantil suelen organizar eventos y actividades, ayudan a los estudiantes a
+resolver problemas y a comunicarse con la administración universitaria.
+
+### UNSJ SEG STUDENT CHAPTER
+
+Formada por estudiantes de la Carrera Lic. en Geofísica que buscan divulgar
+conocimientos competentes a las geociencias a nivel nacional e internacional .
+
+### Consejero Departamental
+
+En la FCEFyN existen los departamentos de: Biología, Geología, Informática y
+Geofísica - Astronomía. Estos son los encargados de tomar todas las decisiones de
+las carreras.
+Los miembros estudiantiles se encargan de llevar la postura estudiantil, muchas
+veces acordadas previamente con el centro de estudiantes y los delegados de curso.
+También es su deber, comunicar a los estudiantes las decisiones que se toman en el
+cuerpo.
+Están constituidos por:
+Claustro: Todos los docentes de la carrera y un delegado por cada año.
+Consejo Departamental: Formado por Consejeros/as docentes y Consejeros/as
+Alumnos, Director/a y Subdirector/a: Ambos docentes de la carrera.
+
+### Miembros del Centro de Estudiantes
+
+Como pudimos ver en unidades anteriores, existe un Centro de Estudiantes por
+cada unidad académica, en el caso de nuestra facultad tenemos el Centro de Estudiantes de
+la Facultad de Ciencias Exactas, Físicas y Naturales. La reglamentación que rige y regula
+esta entidad es el estatuto del centro de estudiantes.
+
+### Consejo Directivo
+
+El consejo directivo está integrado por el Señor Decano, los representantes
+docentes, representantes no-docentes, representantes egresados y los
+representantes alumnos (4 consejeros alumnos).
+Algunas de las atribuciones del consejo directivo son:
+● Proponer al consejo superior la creación, modificación, suspensión y
+supresión de carreras
+● Aprobar el calendario académico de la Facultad.
+● Aprobar propuestas de actividades académicas o recreativas.
+
+### Miembro de la Federación Universitaria de San Juan
+
+La federación universitaria (FUSJ) es la máxima representación de los
+estudiantes en el marco de la universidad. La misma nuclea a todos los centros de
+estudiantes de nuestra universidad.
+
+### Consejo Superior
+
+El consejo superior está integrado por el Señor Rector, los decanos,
+representantes docentes, representantes no-docentes, representantes egresados
+y los representantes alumnos (8 consejeros alumnos)
+. Algunas de las atribuciones del consejo superior son:
+● La dirección política de la universidad acorde lo que establece nuestro estatuto.
+● Reglamentar el otorgamiento de becas, subsidios y otras contribuciones.
+● Creación, modificación, suspensión y supresión de carreras en el ámbito de la
+universidad.

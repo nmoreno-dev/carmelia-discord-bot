@@ -1,0 +1,123 @@
+### ¿QUÉ ES LA UNIVERSIDAD?
+
+Se puede decir que la Universidad es la instancia superior en la organización del
+Sistema Educativo. Es la institución encargada de formar a personas que aspiran alcanzar
+una capacitación profunda para, posteriormente, desempeñarse en el mundo del trabajo.
+Los egresados universitarios están habilitados oficialmente para realizar actividades
+profesionales específicas dentro de un determinado campo del saber.
+Lo que distingue a la Universidad de otras instituciones de nivel superior es que,
+además de enseñar y formar a los alumnos/as (función de enseñanza), se producen
+nuevos conocimientos que contribuyen al desarrollo social (función de investigación). De
+allí que la sociedad “espere” el aporte de saberes teóricos y técnicos que contribuyan al
+mejoramiento de la calidad de vida y bienestar de la comunidad. Y sus egresados deben
+dar cuenta de la capacitación recibida, tanto en lo referido a los conocimientos (saber
+hacer) como a las actitudes y valores (saber ser).
+Existe un consenso entre los académicos y funcionarios de la educación, en que la
+Universidad debe estar al servicio de los intereses del país, orientándose hacia el
+desarrollo de la cultura, la ciencia y la tecnología sin perder de vista las necesidades de la
+comunidad. En este sentido, además de la enseñanza e investigación, se suma otra
+función muy importante como es la extensión, m
+
+### LA UNIVERSIDAD PÚBLICA
+
+La Universidad Nacional de San Juan es una de las 57 Universidades
+Nacionales que existen en nuestro país, y que se caracteriza por su enseñanza pública
+y gratuita. Esto implica que el Estado tiene que garantizar a los ciudadanos el
+acceso gratuito a la educación superior, ya que es un derecho que tenemos todos
+los argentinos. Esta institución dicta carreras de grado, posgrado, cursos, realiza
+actividades de investigación y extensión, entre muchas otras. Y como te imaginarás, se
+requiere de una gran inversión de dinero para poder mantenerla. Esta inversión
+proviene del presupuesto que el Estado destina a la misma y que se obtiene,
+principalmente, de los impuestos que pagan todos los ciudadanos.
+Ahora que vos también sos parte, tenés grandes desafíos: esforzarte en tu
+formación y estudio para poder devolver lo que la sociedad (tus padres, tu familia, tus
+amigos, tus vecinos, los ciudadanos en general) aportó para tus estudios y asumir,
+como futuro egresado, la responsabilidad de producir los conocimientos necesarios
+para mejorar las condiciones de vida del país, y orientar tus prácticas a resolver
+demandas y problemas sociales concretos.
+
+### CREACIÓN DE LA UNSJ Y DE LA FCEFYN
+
+El 11 de Agosto de 1964, durante la gobernación de
+Leopoldo Bravo, se creó la Universidad Provincial Domingo
+Faustino Sarmiento, en homenaje al prócer sanjuanino. Ese
+mismo día, en una nota aparecida en el diario Tribuna de San
+Juan, un conjunto de reconocidas personalidades del campo
+de la educación, la ciencia y la cultura apoyaban la creación
+de una universidad nacional en la provincia.
+Así, la iniciativa de los sanjuaninos vio sus frutos el 10
+de Mayo de 1973, cuando el presidente de facto, Teniente
+General Alejandro Agustín Lanusse, firmó la ley 20.367 que
+permitía la creación de esta nueva universidad.
+La UNSJ tuvo en la figura del Ingeniero Julio Rodolfo Millán a su primer Rector
+Normalizador, a partir de marzo de 1974, pero había sido nombrado Delegado
+Organizador en junio de 1973 y desde esa función le cupo la tarea de estructurar esta
+nueva institución, creando en primera instancia la Facultad de Ingeniería.
+Actualmente, la UNSJ cuenta con cinco facultades: Facultad de Ingeniería (FI),
+Facultad de Ciencias Sociales (FacSo), Facultad de Filosofía, Humanidades y Artes
+(FFHA), Facultad de Arquitectura, Urbanismo y Diseño (FAUD), y Facultad de Ciencias
+Exactas, Físicas y Naturales (FCEFyN); además de la Escuela Universitaria de Ciencias
+de la Salud y tres colegios Pre Universitarios: la Escuela de Comercio "Libertador General
+San Martín", la Escuela Industrial "Domingo Faustino Sarmiento" y el Colegio Central
+Universitario "Mariano Moreno".
+La FCEFyN comienza su historia el 23 de octubre de 1975, dos años después de la
+creación de la Universidad Nacional de San Juan. En primera instancia, siendo decano de
+la Facultad de Ingeniería José López, se creó en 1968, dentro de la Facultad de
+Ingeniería, el Departamento de Ciencias Naturales, y se aprobaron las carreras de
+Licenciatura y doctorado en Ciencias Geológicas. Posteriormente, se produjo la división de
+la gran Facultad de Ingeniería en dos unidades: una de Ingeniería Civil y Arquitectura y la
+restante de Ciencias Naturales e Ingeniería Industrial, al frente de la cual estaba el decano
+agrimensor Carlos Alfredo Ernesto Wiederhold. De esta unidad dependían el
+Departamento de Ciencias Naturales, el Observatorio Astronómico Félix Aguilar, el
+Instituto Sismológico de Zonda y el Museo de Ciencias Naturales.
+En el año 1975 se dictó la Ordenanza Nº 33/75, que buscaba la delimitación de las
+unidades de la Facultad de Ciencias Exactas, Físicas y Naturales en un encuadramiento
+más homogéneo. A esta ordenanza se puede considerar como la que estabilizó y definió
+el nombre de la actual facultad.
+
+### ¿CUÁL ES LA ESTRUCTURA DE LA UNSJ? ¿Y DE LA FACULTAD?
+
+Es importante que sepas cómo se organiza política y académicamente la UNSJ. Es una
+estructura que se sostiene en el valor de la participación democrática de todos sus
+integrantes: docentes, nodocentes, graduados y estudiantes. Esto es una diferencia
+sustancial respecto al funcionamiento del colegio secundario, por lo cual tu incorporación
+y participación en distintos espacios de la institución tiene incidencia (más o menos
+directa) en la vida institucional. La Universidad está compuesta por Facultades que
+incluyen Carreras, Departamentos, Áreas, Institutos, Centros y/o Laboratorios. Por lo tanto
+vos formas parte de una carrera y pertenecés a un Departamento de la Facultad de
+Ciencias Exactas, Físicas y Naturales, con sus respectivos componentes.
+
+```json
+{
+  "Rector": "Tadeo Berenguer",
+  "Vicerectora": "Analía Ponce",
+  "Facultades": [
+    {
+      "nombre": "Facultad de Ciencias Exactas Físicas y Naturales",
+      "Decano": {
+        "nombre": "Rodolfo Bloch",
+        "Departamentos": [
+          "Depto. Alumnos",
+          "Dpto. de Geología",
+          "•Dpto. de Biología",
+          "Dpto. de Informática.",
+          "Dpto. de Geofísica, Física y Astronomía",
+          "Dpto. de Matemática, Química y Física"
+        ]
+      },
+      "Vicedecana": {
+        "nombre": "Natalia Núñez",
+        "secretarías": [
+          "Académica",
+          "Administrativa",
+          "Financiera",
+          "De Asuntos Estudiantiles",
+          "De Extensión",
+          "De Investigación y Posgrado",
+          "De Planificación y Evaluación de Gestión"
+        ]
+      }
+    }
+  ]
+}
+```
